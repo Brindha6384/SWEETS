@@ -1,0 +1,258 @@
+body{
+    position:relative;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+    font-size: large;
+    
+}
+nav ul li{
+    display: inline-block;
+    padding: 10px;
+    padding-right: 20px;
+    
+}
+nav{
+    background-color: white;
+    width: 100%;
+    position: fixed;
+    height: 120px;
+    margin-top: -1%;
+    margin-left:-1%;
+    margin-right: -10%;
+
+}
+#pot1, #pot2 ,#pot3, #pot4, #pot5 ,#pot6,#pot7 ,#pot8 ,#pot9 ,#pot10 ,#pot11{
+    margin-top: 110px;
+    width:600px;
+    height: 450px;
+    margin-left:17px;}
+
+#logo{
+    height: 120px;
+   
+    margin: 0px;
+    padding: 0px;
+}
+#dot{
+    width:1150px;
+    height: 500px;
+    margin-left: 110px;
+    
+}
+h1{
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    color: mediumvioletred;
+}
+p{
+    text-align: center;
+    word-spacing: 7px;
+    font-size: 17px;
+    line-height: 30px;
+    font-weight: bold;
+
+}
+h5{
+    text-align: center;
+    font-weight: bold;
+    color: mediumorchid;
+    word-spacing: 5px;
+    font-size: 15px;
+}
+#field3{
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    color: mediumvioletred;
+}
+.error {
+    
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.add1 ul{
+    list-style-type: none;
+    line-height: 30px;
+    word-spacing: 5px;
+    font-size: 17px;
+    padding-right: 20px;
+}
+.add2 ul{
+    list-style-type: none;
+    line-height: 30px;
+    word-spacing: 5px;
+    font-size: 17px;
+    padding-right: 20px;
+}
+.add3 ul{
+    list-style-type: none;
+    line-height: 30px;
+    word-spacing: 5px;
+    font-size: 17px;
+    padding-right: 5px;
+}
+#logo2{
+    width:370px;
+    height: 300px;
+    margin-left:500px ;
+    
+}
+hr{
+    width:1000px;
+    border: solid black;
+}   
+footer ul li{
+display: inline-block;
+font-size: large;
+} 
+#field8{
+    
+padding-left: 800px;
+padding-right: 150px;
+}
+footer{
+    background-color:rgb(243, 243, 19); 
+}
+i{
+    color:red;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    width:250px;
+    height:400px;
+    background-color:yellowgreen;
+    margin: 14px;
+}
+
+
+
+.cimg1{
+    background-image: url('https://cdn.pixabay.com/photo/2018/06/01/20/25/chicken-3447081__480.jpg');
+    width:230px;
+    height: 200px;
+background-size:cover;
+margin-left: 10px;
+margin-top: 5px;
+
+}
+.cimg2{
+    background-image: url('https://media.istockphoto.com/photos/eating-vegetables-by-child-make-them-healthier-picture-id475105250?b=1&k=20&m=475105250&s=170667a&w=0&h=fRu2uSfaoxbZj2sopvGhtN_xw2oPwGsR55LHv78ynd0=');
+    width:230px;
+    height: 200px;
+background-size:cover;
+margin-left: 10px;
+margin-top: 5px;
+
+}
+.cimg3{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIyzryyb3nOQi58272Z53XYdJ_IUj2t9XAtw&usqp=CAU');
+    width:230px;
+    height: 200px;
+background-size:cover;
+margin-left: 10px;
+margin-top: 5px;
+
+}
+.cimg4{
+    background-image: url('https://media.istockphoto.com/photos/three-gifts-picture-id1346250142?b=1&k=20&m=1346250142&s=170667a&w=0&h=XTlog7wHZxDOQ98YD15hM41DYeCP3-kF2As2QJdRk9Y=');
+    width:230px;
+    height: 200px;
+background-size:cover;
+margin-left: 10px;
+margin-top: 5px;
+}
+#box1, #box2,#box3 ,#box4{
+    text-align: center;
+}
+#op1 ,#op2 ,#op3 ,#op4{
+    line-height: 20px;
+    word-spacing: 5px;
+    text-align: center;
+}
+#op5 ,#op6 ,#op7 ,#op8{
+    text-align: center;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+}
+.card1{
+    width:270px;
+    height:400px;
+    background-color:yellowgreen;
+    margin: 14px;
+}
+.bimg1{
+    background-image: url('https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246__480.jpg');
+    width:250px;
+    height: 200px;
+background-size:cover;
+margin-left: 10px;
+margin-top: 5px;
+}
+.bimg2{
+    background-image: url('https://cdn.pixabay.com/photo/2016/11/21/15/58/wedding-1846114__340.jpg');
+    width:250px;
+    height: 200px;
+background-size:cover;
+margin-left: 10px;
+margin-top: 5px;
+}
+#ot1 ,#ot2{
+    line-height: 20px;
+    word-spacing: 5px;
+    text-align: center;
+}
+#ot4 ,#ot3{
+    text-align: center;
+}
+#b1 ,#b2{
+    text-align: center;
+}
+body{
+   
+    animation-name: Colors;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+@keyframes Colors{
+    0%{
+        background-color:thistle ;
+    }
+    15%{
+        background-color: tomato;
+        
+    }
+    30%{
+        background-color:lightyellow;  
+    }
+    45%{
+        background-color: springgreen;
+
+    }
+    60%{
+       background-color:lightyellow ;
+    }
+    80%{
+        background-color: grey;
+    }
+    100%{
+        background-color: lightskyblue;
+    }
+
+    
+}
+
+
+
+
+
